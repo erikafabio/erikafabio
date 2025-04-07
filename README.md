@@ -2,10 +2,10 @@
 <p align="center">
 
 ## :woman_technologist: &nbsp;Sobre mim:
-### Eai galera prazer eu sou a Erika uma desenvolvedora front-end que ama aprender coisa nova <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### Eai galera prazer eu sou a Erika uma desenvolvedora fullstack web que ama aprender coisa nova <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🌱 Estudante de aplicações back-end com django-rest no momento
-- ⚡ No meu tempo livre eu me esforço pra continuar sendo a pior jogadora de jogos eletrônicos.
+- 🌱 Estudante de engenharia de software no momento
+- ⚡ No meu tempo livre eu me esforço pra continuar sendo a pior jogadora de jogos eletrônicos e as vezes eu leio um pouco.
 - 📫 Fale comigo: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Erika-Fabio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erikafabio/)
 
 ## :hammer_and_wrench: Linguagens e ferramentas :
